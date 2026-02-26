@@ -6,17 +6,11 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://signals.wtf"><img src="https://img.shields.io/badge/signals.wtf-1444c2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTcgMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iOC41IiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjguNSIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIwLjUiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjEyLjUiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMTIuNSIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI0LjUiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMTIuNSIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI0LjUiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+Cg==&logoColor=white" alt="signals.wtf"></a>
-  <a href="https://docs.signals.wtf"><img src="https://img.shields.io/badge/docs-1444c2?style=flat-square&logo=gitbook&logoColor=white" alt="docs"></a>
-  <a href="https://linkedin.com/in/whworjs7946"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
-
 ---
 
 ### Now
 
-**[Signals](https://signals.wtf)** — CLMSR-based daily BTC range markets on [Citrea](https://citrea.xyz) (Bitcoin ZK-rollup)
+**[Signals](https://signals.wtf)** — CLMSR-based daily BTC range markets on [Citrea](https://citrea.xyz) (Bitcoin ZK-rollup)  ·  [docs](https://docs.signals.wtf)
 
 <p>
   <img src="https://img.shields.io/badge/ETHGlobal_Taipei_2025-Finalist-1444c2?style=flat-square" alt="ETHGlobal Taipei 2025 Finalist">
