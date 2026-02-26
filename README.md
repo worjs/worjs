@@ -6,8 +6,6 @@ Previously shipped smart contracts at [Toaster Finance](https://github.com/toast
 
 Korea University, Computer Science & Engineering.
 
-```
-TypeScript · Solidity · React · Node.js · Foundry · The Graph · AWS
-```
+`TypeScript` `Solidity` `React` `Node.js` `Foundry` `The Graph` `AWS`
 
 <a href="https://signals.wtf">signals.wtf</a> · <a href="https://linkedin.com/in/whworjs7946">LinkedIn</a>
