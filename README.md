@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="JaeGun Cho" src="./assets/header-light.svg" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2">
+    <img alt="JaeGun Cho" src="./assets/header-light.svg?v=2" width="480">
   </picture>
 </p>
 
