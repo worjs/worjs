@@ -1,12 +1,14 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img alt="JaeGun Cho" src="./assets/header-light.svg" width="600">
+  </picture>
+</p>
 
-**JaeGun Cho** · worjs
-
-I build full-stack protocols — from pricing math to deploy scripts.
-
-<a href="https://signals.wtf">signals.wtf</a> · <a href="https://docs.signals.wtf">docs</a> · <a href="https://linkedin.com/in/whworjs7946">LinkedIn</a>
-
-</div>
+<p align="center">
+  <a href="https://signals.wtf">signals.wtf</a> · <a href="https://docs.signals.wtf">docs</a> · <a href="https://linkedin.com/in/whworjs7946">LinkedIn</a>
+</p>
 
 ---
 
@@ -25,11 +27,16 @@ I build full-stack protocols — from pricing math to deploy scripts.
 | Backend | Node.js API, daily settlement engine |
 | Infra | Terraform / OpenTofu on AWS ECS Fargate |
 
-23 repos · 1,200+ commits · 400+ PRs merged · solo dev
+<sub>23 repos · 1,200+ commits · 400+ PRs merged</sub>
 
 **ETHGlobal Taipei 2025 Finalist** · **Best ₿app on Citrea**
 
-### Before
+---
+
+<details>
+<summary><strong>Before</strong></summary>
+
+<br>
 
 | Where | What I did |
 |-------|----------|
@@ -38,5 +45,9 @@ I build full-stack protocols — from pricing math to deploy scripts.
 | [GDG on Campus KU](https://github.com/GDG-KU) | GoGreen server lead + Flutter client — Google Solution Challenge 2023 |
 
 Korea University, Computer Science & Engineering.
+
+</details>
+
+<br>
 
 `TypeScript` `Solidity` `React` `Node.js` `Foundry` `The Graph` `Terraform` `AWS`
