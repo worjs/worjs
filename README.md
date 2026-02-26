@@ -2,12 +2,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img alt="JaeGun Cho" src="./assets/header-light.svg" width="600">
+    <img alt="JaeGun Cho" src="./assets/header-light.svg" width="480">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://signals.wtf">signals.wtf</a> · <a href="https://docs.signals.wtf">docs</a> · <a href="https://linkedin.com/in/whworjs7946">LinkedIn</a>
+  <a href="https://signals.wtf"><img src="https://img.shields.io/badge/signals.wtf-0d1117?style=flat&logo=bitcoin&logoColor=F7931A" alt="signals.wtf"></a>
+  <a href="https://docs.signals.wtf"><img src="https://img.shields.io/badge/docs-0d1117?style=flat&logo=gitbook&logoColor=white" alt="docs"></a>
+  <a href="https://linkedin.com/in/whworjs7946"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -29,7 +31,10 @@
 
 <sub>23 repos · 1,200+ commits · 400+ PRs merged</sub>
 
-**ETHGlobal Taipei 2025 Finalist** · **Best ₿app on Citrea**
+<p>
+  <img src="https://img.shields.io/badge/ETHGlobal_Taipei_2025-Finalist-1444c2?style=flat-square" alt="ETHGlobal Taipei 2025 Finalist">
+  <img src="https://img.shields.io/badge/Best_₿app_on_Citrea-F7931A?style=flat-square" alt="Best ₿app on Citrea">
+</p>
 
 ---
 
@@ -50,4 +55,13 @@ Korea University, Computer Science & Engineering.
 
 <br>
 
-`TypeScript` `Solidity` `React` `Node.js` `Foundry` `The Graph` `Terraform` `AWS`
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Foundry-1C1C1C?style=flat-square" alt="Foundry">
+  <img src="https://img.shields.io/badge/The_Graph-6747ED?style=flat-square&logo=thegraph&logoColor=white" alt="The Graph">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
