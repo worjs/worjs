@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://signals.wtf"><img src="https://img.shields.io/badge/signals.wtf-0d1117?style=flat&logo=bitcoin&logoColor=F7931A" alt="signals.wtf"></a>
-  <a href="https://docs.signals.wtf"><img src="https://img.shields.io/badge/docs-0d1117?style=flat&logo=gitbook&logoColor=white" alt="docs"></a>
-  <a href="https://linkedin.com/in/whworjs7946"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <a href="https://signals.wtf"><img src="https://img.shields.io/badge/signals.wtf-1444c2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTcgMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iOC41IiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjguNSIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIwLjUiIHk9IjEyIiB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjEyLjUiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMTIuNSIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI0LjUiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PHJlY3QgeD0iMTIuNSIgeT0iNCIgd2lkdGg9IjQiIGhlaWdodD0iNCIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSI0LjUiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+Cg==&logoColor=white" alt="signals.wtf"></a>
+  <a href="https://docs.signals.wtf"><img src="https://img.shields.io/badge/docs-1444c2?style=flat-square&logo=gitbook&logoColor=white" alt="docs"></a>
+  <a href="https://linkedin.com/in/whworjs7946"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -17,6 +17,11 @@
 ### Now
 
 **[Signals](https://signals.wtf)** — CLMSR-based daily BTC range markets on [Citrea](https://citrea.xyz) (Bitcoin ZK-rollup)
+
+<p>
+  <img src="https://img.shields.io/badge/ETHGlobal_Taipei_2025-Finalist-1444c2?style=flat-square" alt="ETHGlobal Taipei 2025 Finalist">
+  <img src="https://img.shields.io/badge/Best_₿app_on_Citrea-F7931A?style=flat-square" alt="Best ₿app on Citrea">
+</p>
 
 | Layer | What I built |
 |-------|-------------|
@@ -30,11 +35,6 @@
 | Infra | Terraform / OpenTofu on AWS ECS Fargate |
 
 <sub>23 repos · 1,200+ commits · 400+ PRs merged</sub>
-
-<p>
-  <img src="https://img.shields.io/badge/ETHGlobal_Taipei_2025-Finalist-1444c2?style=flat-square" alt="ETHGlobal Taipei 2025 Finalist">
-  <img src="https://img.shields.io/badge/Best_₿app_on_Citrea-F7931A?style=flat-square" alt="Best ₿app on Citrea">
-</p>
 
 ---
 
@@ -52,8 +52,6 @@
 Korea University, Computer Science & Engineering.
 
 </details>
-
-<br>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
